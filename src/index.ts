@@ -8,11 +8,11 @@
 // console.log('company is', company);
 // console.log('maps is', google);
 
-new google.maps.Map(document.getElementById('map'), {
-  zoom: 1,
-  center: {
-    lat: 0,
-    lng: 0,
-  }
+// new google.maps.Map(document.getElementById('map'), {
+//   zoom: 1,
+//   center: {
+//     lat: 0,
+//     lng: 0,
+//   }
   
-});
+// });

@@ -125,13 +125,13 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 // console.log('user is', user);
 // console.log('company is', company);
 // console.log('maps is', google);
-new google.maps.Map(document.getElementById('map'), {
-  zoom: 1,
-  center: {
-    lat: 0,
-    lng: 0
-  }
-});
+// new google.maps.Map(document.getElementById('map'), {
+//   zoom: 1,
+//   center: {
+//     lat: 0,
+//     lng: 0,
+//   }
+// });
 },{}],"../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
